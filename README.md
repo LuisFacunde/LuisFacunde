@@ -11,10 +11,6 @@
 <div>
 <a href="https://github.com/LuisFacunde">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFacunde&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?LuisFacunde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/LuisFacunde/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **LuisFacunde/LuisFacunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
