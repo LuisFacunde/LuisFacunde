@@ -1,4 +1,10 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Luis Facunde
+
+**`Software Developer`**
+
+Sobre mim
+
+## Linguagens e Tecnologias
 
 ## Contatos:
 
@@ -7,6 +13,8 @@
 <a href = "mailto:contato@luisfacunde19@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luis-facunde/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## Estatísticas
 
 <div>
 <a href="https://github.com/LuisFacunde">
