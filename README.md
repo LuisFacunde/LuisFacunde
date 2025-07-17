@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 - 🔭 Today I am working with technical support, oracle database and python
-- 🌱 I am studying web development: node.js
+- 🌱 I am studying web development with node.js
 - ⚡ Fun fact: I am also a nutritionist
 
 ## Linguagens e Tecnologias
